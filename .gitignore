@@ -1,0 +1,13 @@
+# Virtual Environment (Fuzool heavy files)
+venv/
+.venv/
+
+# Environment Variables (Aapki Khufia API Key)
+.env
+
+# Vector Database (Heavy data folders)
+db_storage/
+chroma_db/
+
+# Python Cache
+__pycache__/
