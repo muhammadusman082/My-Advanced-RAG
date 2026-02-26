@@ -33,7 +33,7 @@ My-Advanced-RAG/
 # 1. Purani khichri saaf karke naye versions install karne ke liye
 py -3.11 -m pip install -U --force-reinstall langchain-google-genai google-generativeai pydantic
 
-# 2. Path ki yellow warnings ko ignore karke libraries ko refresh karna
+# 2. Path ki yellow warnings ko ignore karke libraries ko refresh karna.
 py -3.11 -m pip install -q -U google-genai
 
 # 3. Pehle database (dimagh) ko dobara refresh karna (Optional but recommended)
